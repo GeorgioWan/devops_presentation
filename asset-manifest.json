@@ -1,0 +1,18 @@
+{
+  "main.css": "static/css/main.36fe7044.css",
+  "main.css.map": "static/css/main.36fe7044.css.map",
+  "main.js": "static/js/main.bb74a937.js",
+  "main.js.map": "static/js/main.bb74a937.js.map",
+  "static/media/awsconfig.png": "static/media/awsconfig.98a12d4d.png",
+  "static/media/cloudwatch.svg": "static/media/cloudwatch.884ed986.svg",
+  "static/media/codebuild.png": "static/media/codebuild.4b251052.png",
+  "static/media/codecommit.png": "static/media/codecommit.2d8b653a.png",
+  "static/media/codedeploy.png": "static/media/codedeploy.0d3fd303.png",
+  "static/media/codepipeline.png": "static/media/codepipeline.090ec8e4.png",
+  "static/media/codepipeline_intro.png": "static/media/codepipeline_intro.f9f5e48f.png",
+  "static/media/devops.png": "static/media/devops.dd24fe80.png",
+  "static/media/guardduty.png": "static/media/guardduty.5570924e.png",
+  "static/media/iam.svg": "static/media/iam.75e67bcf.svg",
+  "static/media/jest.png": "static/media/jest.450c112d.png",
+  "static/media/macie.png": "static/media/macie.76214c11.png"
+}
